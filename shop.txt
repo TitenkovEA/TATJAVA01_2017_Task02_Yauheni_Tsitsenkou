@@ -1,0 +1,6 @@
+Sportswear|short|23|3
+Sportswear|T-short|33|2
+Sportswear|polo short|41|4
+Balls|golf ball|2|2
+Balls|football|13|5
+Balls|basketball|14|3
